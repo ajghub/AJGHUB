@@ -5,8 +5,6 @@
 
 ### 🔭 Kia ora koutou ~ About Me
 
-## About Me
-
 **Name:** Alice Jowsey  
 **Current Role:** Senior Specialist Engineer   
 **LinkedIn:** [View my LinkedIn](https://www.linkedin.com/posts/alice-jowsey-735a21a4_cgiart-activity-6695936143940304896-uEb-)
