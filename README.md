@@ -1,12 +1,16 @@
 ![](https://images.unsplash.com/photo-1553123428-247ffbd12d90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80)
 
-<div align="center">
-  <img src=" "/>
-</div>
 
 ---
 
 ### 🔭 Kia ora koutou ~ About Me
+
+## About Me
+
+**Name:** Alice Jowsey  
+**Current Role:** Senior Specialist Engineer   
+**LinkedIn:** [View my LinkedIn](https://www.linkedin.com/posts/alice-jowsey-735a21a4_cgiart-activity-6695936143940304896-uEb-)
+
 
 - I’m a **Senior Specialist Engineer** with a rich background in **education, technology, and creative design**  
 - Focused on **full-stack web development**, **AI integration**, and **secure architecture for MVPs**  
