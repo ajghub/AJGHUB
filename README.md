@@ -1,51 +1,47 @@
 ![](https://images.unsplash.com/photo-1553123428-247ffbd12d90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80)
 
 <div align="center">
-	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b924cbb7e3477ddebd28850481722f5a2cebd822/68747470733a2f2f656e74657270726973652e6769746875622e636f6d2f6173736574732f7370696e6e6572732f6f63746f6361742d7370696e6e65722d3132382d323661343433333339313738353463363739346435356561633934376231323737666365643534663166363063356466356439333433316462383735336263352e676966"><img src="https://camo.githubusercontent.com/b924cbb7e3477ddebd28850481722f5a2cebd822/68747470733a2f2f656e74657270726973652e6769746875622e636f6d2f6173736574732f7370696e6e6572732f6f63746f6361742d7370696e6e65722d3132382d323661343433333339313738353463363739346435356561633934376231323737666365643534663166363063356466356439333433316462383735336263352e676966" data-canonical-src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" style="max-width:100%;" width="40" height="40"></a>
-	<p>Octocat says Hi!</p>
+  <img src="https://media.giphy.com/media/3o6ZsWbUeU0z0k3RzC/giphy.gif" width="800" alt="star-trails"/>
 </div>
 
-
-
----
-
-
-# Kia ora koutou ~ Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-- 🔭 I’m a **Senior Specialist Engineer** with a rich background in **education, technology, and creative design**  
-- 🌱 Currently focused on **full-stack web development**, **AI integration**, and **secure architecture for MVPs**  
-- 👯 Open to collaborating on **open source projects**, **education tech**, and **community-driven innovation**  
-- 🤔 Passionate about **engineering systems thinking**, **data sovereignty**, and **inclusive tech solutions**  
-- 💬 Ask me about: **my journey from teaching to tech**, **event architecture**, and **applying systems thinking to creative industries**  
- 
+# <span style="background: linear-gradient(90deg, #00FFFF, #FF00FF, #00FFAA); -webkit-background-clip: text; color: transparent;">Kia ora koutou ~ Hi folks!</span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
 
-### 🧩 Core Skill Domains
+### 🔭 About Me
+- I’m a **Senior Specialist Engineer** with a rich background in **education, technology, and creative design**  
+- Focused on **full-stack web development**, **AI integration**, and **secure architecture for MVPs**  
+- Open to collaborating on **open source projects**, **education tech**, and **community-driven innovation**  
+- Passionate about **engineering systems thinking**, **data sovereignty**, and **inclusive tech solutions**  
+- Ask me about: **my journey from teaching to tech**, **event architecture**, **creative systems thinking**
+
+---
+
+### 🧩 Core Skills
 - **Engineering:** Systems design, technology integration, process optimisation  
 - **Software Development:** Web apps, data pipelines, automation, secure MVPs  
 - **Teaching & Mentorship:** Breaking down complexity, guiding learners, creating structured frameworks  
-- **Creative Industries:** Festival event VJing, wedding planning, floristry, culinary arts — applying systems thinking to design  
+- **Creative Industries:** Festival VJing, wedding planning, floristry, culinary arts, pottery  
 
 ---
 
-### 💻 Coding & Tech Stack
+### 💻 Tech Stack
 ```json
 {
   "programming": ["JavaScript (ES2019+)", "Python", "TypeScript"],
-  "markup": ["HTML5 🏠", "JSON", "Markdown"],
-  "styling": ["CSS3 💅", "TailwindCSS"],
-  "data": ["SQL", "APIs", "Data visualisation tools"]
+  "markup": ["HTML5", "JSON", "Markdown"],
+  "styling": ["CSS3", "TailwindCSS"],
+  "data": ["SQL", "APIs", "Data visualization"]
 }
 ````
 
 ---
 
-### 🛠️ Engineering & Development Tools
+### 🛠️ Tools
 
 ```json
 {
-  "essentials": ["Node.js 🐢🚀", "npm 📦", "Vite", "Webpack"],
+  "essentials": ["Node.js", "npm", "Vite", "Webpack"],
   "editors": ["VS Code", "VSCodium"],
   "linters": ["Prettier", "ESLint"],
   "testing": ["Jest", "Mocha", "Cypress"],
@@ -59,42 +55,59 @@
 ### 🔐 Version Control & Collaboration
 
 ```json
-["Git 🍴", "GitHub 🐙", "GitLab 🦊", "CI/CD pipelines", "Open Source Collaboration"]
+["Git", "GitHub", "GitLab", "CI/CD pipelines", "Open Source Collaboration"]
 ```
 
 ---
 
 ### 📈 Current Focus
 
-* Designing **secure, privacy-first MVPs** for small-scale projects
-* Exploring **AI integration** for education and event technologies
+* Designing **secure, privacy-first MVPs**
+* Exploring **AI integration** for technology and education
 * Translating **engineering systems thinking** into creative industry solutions
-* Growing **multi-disciplinary collaboration** between tech and community projects
+* Growing **multi-disciplinary collaboration**
 
 ---
 
 ### 🏆 Career Highlights
-- **Deloitte Digital Cadetship (2021):** Completed a structured induction, achieved AWS Cloud Practitioner certification in three months, and contributed to an MVP application now shared with Deloitte's Platform and Cloud Engineering team.  
-- **Ministry of Health (2022–Present):** Engaged in client-side projects, focusing on secure and scalable solutions in the public sector.  
-- **Community Engagement:** Actively involved in promoting tech education for women and advocating for Māori data sovereignty in Aotearoa.  
+
+* **Deloitte Digital Cadetship (2021):** AWS Certified, MVP contributions
+* **Ministry of Health (2022–Present):** Public sector secure solutions
+* **Community Engagement:** Panelist speaker, Promoting tech education for women, Māori data sovereignty, Supporting Graduates
 
 ---
 
 ### 🎤 Speaking & Community Involvement
-- **NetHui 2020, Summer of Tech, DEV Academy:** Panelist on topics including digital rights, privacy, and digital inclusion, to support Graduates and share knowledge.   
-- **Cloud Native Summit, Code Camp & AWS Community Day:** Supporting Māori and Pasifika to attend Summits, member of the organising committee, contributing to event planning, coordination, and speaker facilitation. Mentored and supported emerging tech talent, sharing insights from personal career transitions. 
+
+* **NetHui 2020, Summer of Tech, DEV Academy:** Panelist
+* **Cloud Native Summit, Code Camp, AWS Community Day:** Mentorship, event planning, facilitation
+
+---
+
+### 🔭 Projects
+
+| Project                                                      | Preview                                                                      |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| [The IT Crowd](https://nameless-falls-53701.herokuapp.com/)  | ![IT Crowd GIF](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)  |
+| [Ghibli Films API](https://ghibli-sozo-ryoku.herokuapp.com/) | ![Ghibli GIF](https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif)     |
+| [PlantHeads](https://plantheads.herokuapp.com/#/)            | ![PlantHeads GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif) |
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJGHUB\&show_icons=true\&theme=radical\&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AJGHUB\&layout=compact\&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AJGHUB\&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AJGHUB\&theme=react-dark)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6ZsWbUeU0z0k3RzC/giphy.gif" width="250" alt="star-trails"/>
+</div>
 
 
-
-## Links 🔗💬
-- 📫 My Online Profile: http://alicejowsey.com/ (presently deactivated)
-
-
-
-🔭 Projects; 
-### The IT Crowd; https://nameless-falls-53701.herokuapp.com/
-### Ghibli Films w API https://ghibli-sozo-ryoku.herokuapp.com/
-### PlantHeads https://plantheads.herokuapp.com/#/
 
 
 
